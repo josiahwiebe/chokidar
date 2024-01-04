@@ -24,7 +24,6 @@ Node.js `fs.watchFile`:
 Chokidar resolves these problems.
 
 Initially made for **[Brunch](https://brunch.io/)** (an ultra-swift web app build tool), it is now used in
-[Microsoft's Visual Studio Code](https://github.com/microsoft/vscode),
 [gulp](https://github.com/gulpjs/gulp/),
 [karma](https://karma-runner.github.io/),
 [PM2](https://github.com/Unitech/PM2),
